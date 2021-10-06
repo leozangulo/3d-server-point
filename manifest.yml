@@ -1,0 +1,4 @@
+---
+applications:
+ - name: tec-server
+   random-route: true
